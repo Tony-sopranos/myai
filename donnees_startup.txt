@@ -1,0 +1,1 @@
+Le projet Malik-AI utilise un chiffrement de bout en bout. La politique de souveraineté impose que les serveurs soient physiquement situés à Lyon. Le responsable de la sécurité est Marc Dubuis.
